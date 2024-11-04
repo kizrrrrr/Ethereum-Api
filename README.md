@@ -1,6 +1,3 @@
-# EthApi
-
-![EthApi Logo](https://via.placeholder.com/150) <!-- Replace with your logo if you have one -->
 
 ## Overview
 
