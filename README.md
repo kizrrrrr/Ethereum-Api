@@ -16,7 +16,7 @@
 
 ## Installation
 
-To install the required library, just run code
+To install the required library, just run code. 
 
 
 
